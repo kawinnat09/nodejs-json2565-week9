@@ -7,8 +7,9 @@ const PORT = process.env.PORT || 5000
 
 const server = http.createServer((req, res) => {
     const jsonContent = JSON.stringify(loadUser())
+
     res.writeHead(200, { 'Content-Type':'text/plain' })
-    res.write(`${msg.message} I Like Football`)
+    res.write(`${jsonContent} I Like Football`)
     res.end()
 })
 

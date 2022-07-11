@@ -4,34 +4,34 @@
         "team":"UNITED STATES",
         "rank":"1",
         "score":"401",
-        "image":"https://ssl.gstatic.com/onebox/media/sports/logos/volleyball/wj9uZvn_vZrelLFGH8fnPA_48x48"
+        "image":"https://ssl.gstatic.com/onebox/media/sports/logos/volleyball/wj9uZvn_vZrelLFGH8fnPA_48x48.png"
     },
     {
         "id":"2",
         "team":"BRAZIR",
         "rank":"2",
         "score":"377",
-        "image":"https://ssl.gstatic.com/onebox/media/sports/logos/volleyball/zKLzoJVYz0bb6oAnPUdwWQ_48x48"
+        "image":"https://ssl.gstatic.com/onebox/media/sports/logos/volleyball/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png"
     },
     {
         "id":"3",
         "team":"CHINA",
         "rank":"4",
         "score":"401",
-        "image":"https://ssl.gstatic.com/onebox/media/sports/logos/volleyball/8Cr5Gw-79PpIX2rIEZ7Pvg_48x48"
+        "image":"https://ssl.gstatic.com/onebox/media/sports/logos/volleyball/8Cr5Gw-79PpIX2rIEZ7Pvg_48x48.png"
     },
     {
         "id":"4",
         "team":"THAILAND",
         "rank":"8",
         "score":"205",
-        "image":"https://ssl.gstatic.com/onebox/media/sports/logos/volleyball/aEBU_ri8U6F06oTqWmKY5g_48x48"
+        "image":"https://ssl.gstatic.com/onebox/media/sports/logos/volleyball/aEBU_ri8U6F06oTqWmKY5g_48x48.png"
     },
     {
         "id":"5",
         "team":"GERMANY",
         "rank":"10",
         "score":"202",
-        "image":"https://ssl.gstatic.com/onebox/media/sports/logos/volleyball/h1FhPLmDg9AHXzhygqvVPg_48x48"
+        "image":"https://ssl.gstatic.com/onebox/media/sports/logos/volleyball/h1FhPLmDg9AHXzhygqvVPg_48x48.png"
     }
 ]

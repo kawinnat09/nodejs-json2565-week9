@@ -1,3 +1,3 @@
-const message = "Hello IT!"
+const message = "Hello IT1/1!"
 
 module.exports = {message}

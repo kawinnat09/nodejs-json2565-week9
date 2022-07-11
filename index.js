@@ -18,12 +18,12 @@ const server = http.createServer((req, res) => {
     }
     else if(req.url === '/user'){
         res.writeHead(200, { 'Content-Type':'text/plain' })
-        res.write(`${JsonVnl2022}`)
+        res.write(`${jsonVnl2022}`)
         res.end()
     }
     else if(req.url === '/vnl2022'){
         res.writeHead(200, { 'Content-Type':'text/plain' })
-        res.write(`${JsonUser}`)
+        res.write(`${jsonUser}`)
         res.end()
     }
     else{
